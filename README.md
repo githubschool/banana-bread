@@ -1,5 +1,5 @@
 # GitHub for Developers
-
+Lint this!
 - Class Date: July 22, 2021
 - Facilitator: @AAugustine
 
