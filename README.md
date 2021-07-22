@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers!
 
 - Class Date: July 22, 2021
 - Facilitator: @AAugustine
